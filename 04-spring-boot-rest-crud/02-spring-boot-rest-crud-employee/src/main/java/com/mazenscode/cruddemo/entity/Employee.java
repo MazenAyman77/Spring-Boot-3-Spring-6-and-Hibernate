@@ -3,7 +3,7 @@ package com.mazenscode.cruddemo.entity;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "employee_directory")
+@Table(name = "employee")
 public class Employee {
 
     @Id
